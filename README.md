@@ -1,8 +1,7 @@
 # YYC
 
 - Working on:
-    - [Orillusion](https://github.com/Orillusion) WebGPU Engine
-    - [Wonder.js](https://github.com/Wonder-Technology/Wonder.js) WebGPU Path Tracer
+    - [Meta3D](https://github.com/Wonder-Technology/Meta3D) An Open, Extensible Platform for build Web3D Editor and Engine 
 - Communicate with me: 
     - email:395976266@qq.com
     - QQ群:106047770
