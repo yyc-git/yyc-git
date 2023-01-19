@@ -1,7 +1,7 @@
 # YYC
 
 - Working on:
-    - [Meta3D](https://github.com/Wonder-Technology/Meta3D) An Open, Extensible Framework for build Web3D Editor and Engine 
+    - [Meta3D](https://github.com/Wonder-Technology/Meta3D) An open low-code development platform for developing Web3D Editor and Engine 
 - Communicate with me: 
     - email:395976266@qq.com
     - QQ群:106047770
